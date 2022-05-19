@@ -1,0 +1,132 @@
+{
+  "version": "3.59.26702.0",
+  "course_id": "6S7jy8mnXLn_course_id",
+  "title": "LINCS5Unit2Review",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Study Details"
+    },
+    {
+      "title": "Task 1"
+    },
+    {
+      "title": "Task 2"
+    },
+    {
+      "title": "Communicative Competence"
+    },
+    {
+      "title": "Task 3"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6UzwD6O7fdL",
+      "title": "Teaching Adult English Learners: Principles and Practices",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6e9mY8cpf05",
+      "title": "How to Use this Scenario",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6iodUpIdBEv",
+      "title": "About the Activity",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6cecpt55Xbr",
+      "title": "The Scenario Process",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6pBPulUQjxO",
+      "title": "Your Student",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5kyzX4jTDMv",
+      "title": "Decide the Focus for the Lesson",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5lVr9lNtGa3",
+      "title": "Scene 1 - Answer 1",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5lNVS2WLF4x",
+      "title": "Scene 1 - Answer 2",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6Ag4EjNxN3T",
+      "title": "Scene 1 - Answer 3",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5lk83MmkSHo",
+      "title": "Scene 1 - Answer 4",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6ctSsw4qYtU",
+      "title": "Communicative Competence",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "65TZlF3YJcE",
+      "title": "Linguistic Competence",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6okfcgZgHdq",
+      "title": "Sociolinguistic Competence ",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "68KkBkTXJoS",
+      "title": "Discourse Competence ",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6ifCxYoUBtK",
+      "title": "Strategic Competence ",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5jrvzHMCLDU",
+      "title": "Communicative Competence",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5YXZUdX81z6",
+      "title": "Communicative Activities ",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5ZTItb4MIFe",
+      "title": "Communicative Activities ",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6cwLSOFO9Ev",
+      "title": "Conclusion",
+      "scene_index": "6.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 635
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

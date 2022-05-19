@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1997" moduleid="8935" modulename="page" contextid="57006">
+  <page id="1997">
+    <name>Case Study Reflection</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;
+    &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;strong&gt;Instructions&lt;/strong&gt;&lt;/h4&gt;&lt;span&gt;For each of the three case studies in Unit 1, review information on each learner and consider the questions listed below.&amp;nbsp;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;What are his or her goals as a learner?&lt;/li&gt;
+        &lt;li&gt;What strengths does the learner bring to the learning process?&lt;/li&gt;
+        &lt;li&gt;What might be some of the learner's challenges?&lt;/li&gt;
+        &lt;li&gt;What are the learner's language needs?&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;hr&gt;&lt;h4&gt;&lt;strong&gt;Case Study 1. Aadan&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;Aadan came to the United States 9 years ago as a refugee, when he was 19.&amp;nbsp;&lt;span style="font-size: 1.7rem;"&gt;Before that, he attended school for only 3 years in a refugee camp and has minimal literacy skills in his native language. He is married and has four school-aged children. He works as an attendant in a parking garage and attends English classes three mornings a week. Due to his limited literacy skills, he has been placed in a beginning English language acquisition class. At the same time, he has strong oral skills and is quite confident communicating with teachers and people in his community. Notice that Aadan has both immediate and long-term goals for his English language acquisition and that improving his literacy skills is a high priority for him.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;hr&gt;&lt;h4&gt;&lt;strong&gt;Case Study 2. Inez&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Inez has lived in the United States for 10 years and has three school-aged children. She completed the 10th grade in Ecuador. She works in housekeeping at a hotel and is enrolled in a low-intermediate English language acquisition class at a volunteer-run program in her community. The program she attends focuses on improving learners’ life skills, such as the skills needed for shopping, applying for jobs, and navigating transportation systems. Inez feels frustrated because she can’t express herself well in English. She has trouble communicating with her boss. Her dream is to earn her high school equivalency and then to become a nurse. She loves using computer apps to practice English.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;br&gt;
+&lt;/p&gt;&lt;hr&gt;&lt;h4&gt;&lt;strong&gt;Case Study 3. Carlos&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Carlos was a high school math teacher is in his country. Currently, he works in a manufacturing company as he improves his English. He needs to work with his state to see if he meets licensure requirements. He most cer&lt;/span&gt;tainly needs to enroll in education classes and pass licensing exams, but he feels like that is a long way off. Right now, he is in a high intermediate English language acquisition class in a large, urban adult education program. He hasn’t scored high enough to be placed in the more advanced college bridge courses, but he thinks that’s what he needs to get ahead.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1627928207</timemodified>
+  </page>
+</activity>

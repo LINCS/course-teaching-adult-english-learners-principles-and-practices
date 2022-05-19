@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1994" moduleid="8929" modulename="page" contextid="57000">
+  <page id="1994">
+    <name>Introduction Video</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;For this video, you will need the &lt;a href="https://lincs.ed.gov/sites/default/files/2022-03/pause-think-intro.pdf" target="_blank"&gt;Introduction: Pause and Think Handout&lt;/a&gt; located here or on the main course page. For the fillable PDF, please be sure to save your PDF before closing the document in order to keep your notes.  Finally, please &lt;a href="https://lincs.ed.gov/sites/default/files/2022-03/introduct-transcript.pdf" target="_blank"&gt;click here to access the video and visual transcription.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After you view this presentation, return to the main course page to complete the Pre-Course Assessment.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gQZoqp4bO5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="ui-droppable"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1647379872</timemodified>
+  </page>
+</activity>

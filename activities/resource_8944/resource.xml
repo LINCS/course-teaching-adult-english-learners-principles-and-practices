@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="194" moduleid="8944" modulename="resource" contextid="57015">
+  <resource id="194">
+    <name>Extended Practice Activity: Analyze Language and Digital Skills</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Now that you’ve completed your knowledge check, you’ll complete an extended practice activity in which you analyze the language and skills (including digital skills) needed to perform a real-world interactive scenario successfully. &lt;br /&gt;&lt;em&gt;&lt;em&gt;&lt;br /&gt;Note: the activity will open in a new window when you click the file name. Close the window to return to the course.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div id="gtx-trans" style="position: absolute; left: -145px; top: 85px;"&gt;
+&lt;div class="gtx-trans-icon"&gt;&lt;/div&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:1000;s:11:"popupheight";i:600;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>21</revision>
+    <timemodified>1647471424</timemodified>
+  </resource>
+</activity>

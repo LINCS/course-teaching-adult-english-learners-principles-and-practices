@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2010" moduleid="8962" modulename="page" contextid="57033">
+  <page id="2010">
+    <name>Congratulations on Completing Unit 5!</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;Congratulations!
+You’ve completed Unit 5.&amp;nbsp;Please return to the main course page to begin the Conclusion Unit for this course, where you will have the opportunity to put your newly acquired skills to the test in the "Post-Course Assessment" and receive your Certificate of Completion!&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1625188919</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="142" moduleid="8930" modulename="quiz" contextid="57001">
+  <quiz id="142">
+    <name>Pre-Course Assessment</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span lang="EN"&gt;To get started, you will complete a pre-course self-assessment, which can be used to help you identify teaching skills that you'd like to develop through this course. After you’ve completed the self-assessment, save it in your records to refer back to at the end of the course in the post-course assessment activity. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="EN"&gt;After you have completed the assessment, identify some teaching skills that would be important to develop or improve through this course. What strategies, activities, or methods are you already using related to each of the topics listed covered in the course pre-assessment? What could be added to your practice? Write three personal goals for yourself on your Pause and Think handout.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>4</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>4352</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>15</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>0</shuffleanswers>
+    <sumgrades>0.00000</sumgrades>
+    <grade>0.00000</grade>
+    <timecreated>1624479224</timecreated>
+    <timemodified>1647380589</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="1017">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2449</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1018">
+        <slot>2</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2450</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1019">
+        <slot>3</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2451</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1020">
+        <slot>4</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2452</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1021">
+        <slot>5</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2453</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1022">
+        <slot>6</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2454</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1023">
+        <slot>7</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2455</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1024">
+        <slot>8</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2456</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1025">
+        <slot>9</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2457</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1026">
+        <slot>10</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2458</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1027">
+        <slot>11</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2459</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1028">
+        <slot>12</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2460</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1029">
+        <slot>13</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2461</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+      <question_instance id="1030">
+        <slot>14</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>2462</questionid>
+        <questioncategoryid>$@NULL@$</questioncategoryid>
+        <includingsubcategories>$@NULL@$</includingsubcategories>
+        <maxmark>0.0000000</maxmark>
+        <tags>
+        </tags>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="111">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="193">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>1.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

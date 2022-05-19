@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="8937" modulename="h5pactivity" contextid="57008">
+  <h5pactivity id="1">
+    <name>Unit 1 Knowledge Check</name>
+    <timecreated>1620848030</timecreated>
+    <timemodified>1647965107</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-contrast="auto" xml:lang="EN-US" lang="EN-US"&gt;&lt;span data-ccp-parastyle="Body Text Post Head" data-ccp-parastyle-defn="{&amp;quot;ObjectId&amp;quot;:&amp;quot;cbaa864b-f234-4ed7-9c82-c1352cfeb5db|143&amp;quot;,&amp;quot;ClassId&amp;quot;:1073872969,&amp;quot;Properties&amp;quot;:[134233614,&amp;quot;true&amp;quot;,134234082,&amp;quot;true&amp;quot;,201340122,&amp;quot;2&amp;quot;,201341983,&amp;quot;0&amp;quot;,201341986,&amp;quot;1&amp;quot;,201342446,&amp;quot;1&amp;quot;,201342449,&amp;quot;1&amp;quot;,335559738,&amp;quot;0&amp;quot;,335559739,&amp;quot;120&amp;quot;,335559740,&amp;quot;276&amp;quot;,469769226,&amp;quot;Calibri,Times New Roman&amp;quot;,469775450,&amp;quot;Body Text Post Head&amp;quot;,469775498,&amp;quot;Body Text&amp;quot;,469775583,&amp;quot;btp&amp;quot;,469777841,&amp;quot;Calibri&amp;quot;,469777842,&amp;quot;Times New Roman&amp;quot;,469777843,&amp;quot;Calibri&amp;quot;,469777844,&amp;quot;Calibri&amp;quot;,469778129,&amp;quot;BodyTextPostHead&amp;quot;,469778324,&amp;quot;Body Text&amp;quot;]}"&gt;Read each example of how a teacher works with students like &lt;/span&gt;&lt;span data-ccp-parastyle="Body Text Post Head"&gt;Aadan&lt;/span&gt;&lt;span data-ccp-parastyle="Body Text Post Head"&gt;, Inez, and Carlos and select which learner-centered teaching principles are addressed. You will check more than one principle for each question. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+    </attempts>
+  </h5pactivity>
+</activity>

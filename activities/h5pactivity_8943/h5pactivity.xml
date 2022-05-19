@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="8943" modulename="h5pactivity" contextid="57014">
+  <h5pactivity id="2">
+    <name>Unit 2 Knowledge Check</name>
+    <timecreated>1624973151</timecreated>
+    <timemodified>1647965223</timemodified>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Identify which competence each of the following skills exemplifies.&lt;/p&gt;
+&lt;p&gt;Select the competence each skill illustrates, then select Check to verify your answer.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <grade>100</grade>
+    <displayoptions>15</displayoptions>
+    <enabletracking>1</enabletracking>
+    <grademethod>1</grademethod>
+    <reviewmode>1</reviewmode>
+    <attempts>
+    </attempts>
+  </h5pactivity>
+</activity>

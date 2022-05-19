@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2005" moduleid="8952" modulename="page" contextid="57023">
+  <page id="2005">
+    <name>Congratulations on Completing Unit 3!</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;p&gt;Congratulations!
+You’ve completed Unit 3. Please return to the main course page to begin Unit 4,
+where we will investigate classroom management practices that optimize learning for adult ELs, including maximizing student interaction and engagement, class routines, modeling and demonstrating class activities, and managing your level of language as a teacher.&lt;/p&gt;&lt;br&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1625188486</timemodified>
+  </page>
+</activity>

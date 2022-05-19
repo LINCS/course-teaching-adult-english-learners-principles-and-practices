@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="195" moduleid="8956" modulename="resource" contextid="57027">
+  <resource id="195">
+    <name>Extended Practice Activity: Differentiating Instruction</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Complete a practice activity on differentiating instruction. &lt;em&gt;Note: the activity will open in a new window when you click the file name.&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:960;s:11:"popupheight";i:540;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>20</revision>
+    <timemodified>1647446511</timemodified>
+  </resource>
+</activity>

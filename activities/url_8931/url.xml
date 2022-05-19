@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="263" moduleid="8931" modulename="url" contextid="57002">
+  <url id="263">
+    <name>Pause and Think Handout-Intro</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Before continuing to the next section, take a moment to write on the Pause and Think Handout three goals you have for yourself related to this course. &lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;Note: the document will open in a new window when you click the file name. Close the window to return to the course.&lt;/em&gt; &lt;/p&gt;
+&lt;div id="gtx-trans" style="position: absolute; left: -21px; top: 63px;"&gt;
+&lt;div class="gtx-trans-icon"&gt;&lt;/div&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://lincs.ed.gov/sites/default/files/2022-03/pause-think-intro.pdf</externalurl>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:3508;s:11:"popupheight";i:2480;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1647471450</timemodified>
+  </url>
+</activity>
